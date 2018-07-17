@@ -7,4 +7,4 @@ engineer, father, geek.
 guitar
 
 ## Four favorite animal
-dog,cat,horse,platypus
+dog, cat, horse, platypus
