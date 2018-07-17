@@ -1,7 +1,11 @@
+# Who Am I
+[Loreto Parisi](https://github.com/loretoparisi), engineer. 
+
 # About Me
-I'm [Loreto Parisi](https://github.com/loretoparisi), engineer. Work and live in Italy.
+Work and live in Italy.
+
 ## Favorite hobby
-Playing guitar. Coding.
+["Guitar"].
 
 ## Four favorite animal
-Sometimes dogs. Few times cats.
+["dogs","cats,null,null]
