@@ -15,7 +15,7 @@ Follow these steps to contribute to this project:
 4. Edit your file. Introduce yourself by name. List three words that describe you. Write  a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.
 4. After writing, add your file to your project, commit, and push to your repository. 
 5. Create a pull request back to the original LambdaSchool repository. 
-6. Finish by adding a comment to your pull request. Call out your instructor by GitHub user-id (for example `@MyInstructor`, using a real GitHub account name) and mention the phrase "Core Hello Challenge".
+6. Finish by adding a comment to your pull request. Call out your instructor by GitHub user-id (for example `@MyPM`, using a real GitHub account name) and mention the phrase "Core Hello Challenge".
 
 ### Branch Challenge
 
