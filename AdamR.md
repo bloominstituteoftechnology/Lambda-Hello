@@ -1,5 +1,7 @@
-* Hello, World! *
+# Hello, World!
 
-This is Adam Reid. I enjoy cooking, rock climbing, and coding awesome websites.
+## This is Adam Reid.
 
-Shout out to all my OG 1337 h4x0rz!
+### I enjoy cooking, rock climbing, and coding awesome websites.
+
+**Shout out to all my OG 1337 h4x0rz!**
