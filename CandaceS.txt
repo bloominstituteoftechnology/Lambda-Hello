@@ -1,3 +1,2 @@
-Hello World! My name is Candace Steinebach. Three words that describe me are inquisitive, ambitious, and compassionate.
-I have a plethora of hobbies including reading a good book, learning new things, and of course programming.
-Nice to meet you!
+Hello World! My name is Candace Steinebach. Three words that do not describe me are lazy, selfish, and boring.
+I am not into hiking or camping. I do not have any pets. 
