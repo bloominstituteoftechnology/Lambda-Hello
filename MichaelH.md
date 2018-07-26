@@ -10,4 +10,6 @@ it's been a lingering obsession of mine. A few of my favorite video games
 include Shadow of the Colossus, Xenogears, Fallout, Final Fantasy XIV, and
 Overwatch.
 
+I have a dog named Ygritte.
+
 ### Until next time, codemonkeys ^^
