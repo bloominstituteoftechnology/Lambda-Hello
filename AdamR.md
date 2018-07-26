@@ -2,6 +2,6 @@
 
 ## This is Adam Reid.
 
-### I enjoy cooking, rock climbing, and coding awesome websites.
+### I enjoy space travel, asteroid mining, and the all-encompassing beauty and silent horror of alien worlds.
 
-**Shout out to all my OG 1337 h4x0rz!**
+**Shout out to all my OG Mars Colonists!**
