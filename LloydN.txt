@@ -1,9 +1,11 @@
 Hello, I am Lloyd.
 
-Tall
-Bespectacled
-Quiet
+Short
+Eagle-eyed
+Boisterous
 
-I enjoy hiking. I hike up the mountain in town nearly every weekend.  I swim in the glacial spring lake.
+I enjoy walking on my hands. I walk on my hands every weekend.  I even walk on my hands in a glacial spring lake.
 
+
+Amending commit...
 
