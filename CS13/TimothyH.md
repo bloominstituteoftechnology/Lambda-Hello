@@ -1,5 +1,5 @@
 - Hi, I'm Tim.
 
-- I'm easy-going, adventurous, and an outdoor-lover.
+- I'm hardcore, timid, and a homebody.
 
-- My favorite hobby is traveling. I enjoy getting lost in a new city, evening walks, and meeting new people.
+- My favorite hobby is staying at home. I enjoy baking with the oven, sweeping the house, and sleeping all day long.
