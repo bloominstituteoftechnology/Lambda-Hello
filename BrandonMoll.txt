@@ -1,0 +1,4 @@
+ECHO is on.
+My name is Brandon, 3 words that describe me are: Funny, Weird, and tired.
+
+I have a few hobbies, I like to cook, especially smoked meats =P, and play Rocket League.  Although I have less time for those things now, because I also love learning to code.
