@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is Bruce! Three words that describe me are scary, evil, and villainous! Muhahahaha. I love long monologues where the hero manages to escape and save the day. Turtles are the best. 
+=======
+My name is Bruce! Three words that describe me are scary, evil, and villainous! Muhahahaha. I love long monologues where the hero manages to escape and save the day. Cats are the best. 
+>>>>>>> 18518ab1e611de7ccd29420bca0fb2acf024dc00
