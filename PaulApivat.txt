@@ -14,4 +14,10 @@ I'm interested in blockchain and I want to create  decentralized applications.
 My past training is in psychology and I'm somewhat of a data nerd. 
 
 
+// Extra Credit Challenge
+My top-5 bball players: 
 
+Starters:   MJ, Lebron, Shaq,   Magic, Durant
+ Support: Kobe, Duncan, Hakeem, J.Kidd, S.Curry
+ Support: Wade, Barkley, Kareem, AI,   Reggie Miller
+ Support: Bird,  McHale, KG     Isiah, Ray Allen
