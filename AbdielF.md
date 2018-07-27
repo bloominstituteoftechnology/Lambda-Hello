@@ -1,5 +1,5 @@
-Edit your file. Introduce yourself by name. List three words that describe you. Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.
+Hello, my name is Abdiel Fernandez, I am hurtful, disrespectful and lazy.
 
-Hello, my name is Abdiel Fernandez, I am inquisitive, happy and, adaptive.
+I love to go out at night and go clubbing. I do not start feeling alive until 9pm and it's time to go out and party. During the day while I am at work, all I think about is what I am going to do that night. I have been this way since my Senior year of high school and I will never change.
 
-My favorite hobby is reading. All throughout my youth, I hated the idea of reading. It wasn't until Senior year when my English teacher gave us a book to read as a class. 'Percy Jackson and the Olympians: The Lightning Thief - Rick Riordan', that was the name of the book that made me love reading. That book showed me how words on a page can take me to another world, it showed me that the impossible can become possible. Since then I have read every book in the Percy Jackson series and dozens of other books. I am currently reading the Harry Potter series.
+I am making a change, so I could ammend this commit
