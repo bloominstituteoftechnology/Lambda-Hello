@@ -1,0 +1,8 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1659
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh4860\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Hello! My name is Jason M. I am wild, disruptive, and unruly. I have a ferret named Trashbag (he\'92s a European ferret) and two rats named Stink and Stank (respectively). I love frog gigging and couponing.}
