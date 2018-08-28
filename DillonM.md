@@ -1,7 +1,7 @@
 # Dillon McElhinney
 
 ## Me In Three Words.
-Curious. Student. Ironic.
+Loud. Gregarious. Bubbly.
 
 ## Things I Like
-Hello. My name is Dillon and I really like to make things. I have done woodworking, photography, soldering, etc. And now programming! I love to learn, I love to read, and I **love** to listen to podcasts. Also, The Office. 
+Hello. My name is Dillon and I really hate to make things. I like to destroy people's art, etc. I hate to learn, I hate to read, and I **hate** to listen to podcasts. Also, The Office sucks.
