@@ -1,15 +1,15 @@
-## Introduction
-Hello World! My name is Jasmine Galang, but you can call me Jaja! I was born and raised in the Philippines so that
-makes me a Filipino, but we migrated in the US back in 2010. I currently live in California.
+## Introduction (alternate reality)
+Sup World! My name is not Jasmine Galang, but you can't call me Jaja! I was not born and raised in the Philippines so that
+makes me a Filipino, but we didn't migrate in the US back in 2010. I currently don't live in California.
 
-## 3 Words That Describes You
-* Shy (at first. Lol)
-* Funny
-* Gorgeous. Just kidding! Hmm... Meticulous. ;)
+## 3 Words That Doesn't Describe You
+* not shy (at first. Lol)
+* not funny
+* Gorgeous. I'm not kidding! Hmm... still Meticulous. ;)
 
 ## Favorite hobby, animal, etc
-* **My favorite hobby**: Photography --follow me on Instagram [@jajawockee](https://www.instagram.com/jajawockee/)
-* **My favorite animal**: Dog --specifically a corgi or an Alaskan malamute! :3
+* **My favorite hobby**: Not Photography --follow me on Instagram [@jajawockee](https://www.instagram.com/jajawockee/)
+* **My favorite animal**: Cat --specifically a corgi-cat or an Alaskan malamute-cat! :3
 * **Others**:
-  * I love to eat!
-  * My last name, Galang, means "respect" in English. XD
+  * I still love to eat!
+  * My last name, Galang, doesn't mean "respect" in English. XD
