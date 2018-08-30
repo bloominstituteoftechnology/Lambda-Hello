@@ -5,7 +5,3 @@
 + Latex Sales
 
 I also wrote "Venetian Blinds".
-
-
-
-### Amended for Extra Credit Challenge
