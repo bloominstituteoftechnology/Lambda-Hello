@@ -1,4 +1,4 @@
 # Jacob A. Brennan
-Loyal 🐗 Honest 💯 Perplexed 🤔
+Outta my way!
 
-I'm currently helping out my sister at her mushroom farm. I make my own hours and it's all manual labor, so it's great to take a break from coding and just swing a pickaxe for a couple hours. Mycelium is weird. Farming mycelium is really weird. I'm more like a miner than a farmer. Does "Mushroom Miner" look good on a resume?
+This is the place to write about me, right? Ok, you all want to know everything, but time is money so this is what you get: Look out for number 1. If you're not great at something immediately, it's not worth your time. It's easier to ask forgiveness than permission. If you're still a looser, buy my book - it's all in there. Done. I'm great.
