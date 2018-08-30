@@ -9,3 +9,15 @@ My favorite hobby is exploring the world.
 My favorite animal as of right now is a Alpaca.
 My favorite JavaScript library is React.
 
+--Alternate Reality--
+
+Hi, my name is Samuel Ko.
+
+Three words that describe is
+  rash,
+  trash,
+  brash.
+
+My favorite hobby is being irritating.
+My favorite animal as of right now is a cat.
+My favorite JavaScript library is Angular.
