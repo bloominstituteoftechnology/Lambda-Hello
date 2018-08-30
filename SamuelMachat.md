@@ -1,7 +1,5 @@
-Hi y'all it's Samuel here and this is my message. 
+Hello. George here (Samuel's alternate reality self -- meaning not like me at all!). Yup. C'est moi. 
 
-You want three words that describe me, huh? Curious, cooperative, and quiet. Perhaps alliteration nets extra credit? No? Okay. 
+Three descriptors: cruel, overbearing, nosy.
 
-I like writing both code and prose, taking long walks barefoot in the forest, and deadlifting. I like bad weather and old architecture. 
-
-Oh, I'm supposed to write about a specific favorite thing, not a bundle of them. Right. My doggo, then. Best doggo del mundo. She's black. And a pug. She's loyal and loving and loves playing with her toys and sometimes gets too excited for her dinner that she starts barking and I don't like that as much.
+You know what I just love? Writing blog posts about how great beurocracy is. I just love rules. There can never be too many rules. And delays, we need those. People move too fast. It's good when we sloooow stuff down. On my birthday I ask friends to give me rolls of red tape because I love it so much. 
