@@ -1,0 +1,3 @@
+Favorite hobby: coding
+Favorite animal: wolf
+Favorite food: pizza
