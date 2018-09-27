@@ -1,10 +1,10 @@
-# Hi, I'm Ira Sanchez!
+# Hi, I'm (alternate reality) Ira Sanchez!
 (Ira D. Bohm-Sanchez)
 
-- Curious
-- Determined
-- Optimistic
+- Tall
+- Socialite
+- Dogmatic
 
-I enjoy studying various topics, especially topics pertaining to behavior, wellness, and culture. 
+I like to watch sports and watch football every Sunday. I definitely know the names of teams and where they're from. 
 
-My favorite animal is my dog, Pugsley. He's a chihuahua-pug-mix, which is genuinely called a chug.
+Animals are awful.
