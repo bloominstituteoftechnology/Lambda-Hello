@@ -1,4 +1,4 @@
-# Hey, my name is *Jason _Jase_ Cook.*
+# Hey, my name is **Jason _Jase_ Cook.**
  
 **Three** words I'd use to describe myself are:
 1. Quirky
