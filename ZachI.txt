@@ -1,6 +1,5 @@
 name                   : Zachery Irvin
 
-three_word_description : Outgoing, Dedicated, Hard Working
+three_word_description : Lazy, poor communicator, complacent 
 
-hobbies                : I enjoy learning new skills and challenging myself to learn new things. I like to go out with my friends, hang out with my wife, and take long extravagent vactions.
-
+hobbies                : I enjoy playing chess, checkers, and otherwise sitting around the house doing nothing all day long while my wife makes all the money :) 
