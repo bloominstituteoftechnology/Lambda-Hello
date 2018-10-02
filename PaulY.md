@@ -1,9 +1,9 @@
-#About Me
+#About Me (Alternate Reality)
 
 **List three words that describe you.**
 
-Hello, my name is Paul and three words that describe me are kind, quiet, and tall.
+Hello, my name is Paul and three words that describe me are brash, loud, and short.
 
 **Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.**
 
-I enjoy reading, working out, the outdoors, playing video games (on hold until I finish Lambda School!) and spending time with family. My favorite animal is my West Highland Terrier Jak, and I am also a kitten dad to Prince and Ginger.
+I enjoy shopping, being lazy, playing water polo and hunting the most dangerous animals for sport. My favorite animal is the chihuahua. Yo Quiero Taco Bell!
