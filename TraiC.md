@@ -1,4 +1,3 @@
-Hey Lambda,
 # Introduction
 My name is Trai ('tre') Lynne Compton !! 
 
