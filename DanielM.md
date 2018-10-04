@@ -1,7 +1,7 @@
-# Daniel Mendez
+# Alternate Dan
 
-1. Laconic
-2. Perfectionist
-3. Lazy
+1. Verbose
+2. Contraversial
+3. Upbeat
 
-···I enjoy repairing computers and phones. I like dogs.
+···I do not enjoy repairing computers and phones. I do not like dogs.
