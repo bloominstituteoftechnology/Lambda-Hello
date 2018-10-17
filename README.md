@@ -5,6 +5,24 @@ Introductions to the Lambda Community
 
 This GitHub repository helps you practice the steps used to participate in open source code projects. You'll need to fork, clone, add, commit, push, and create a pull request to join in.
 
+#### Git Configuration
+
+First, let's verify that your global settings for Git are configured to the e-mail and username which you've used to sign up with GitHub. The following two commands should return your username and e-mail address:
+`git config --global user.name` and `git config --global user.email`
+
+If so, you are good to go! If, however, they return nothing, then you'll need to use the following commands to configure Git so the commits you push to GitHub properly reflect you as the author. For example, with the username "lisalovescode" and the e-mail "lisa1234@gmail.com"
+
+```
+$ git config --global user.name "lisalovescode"
+$ git config --global user.email "lisa1234@gmail.com"
+```
+
+See also:
+
+1. https://help.github.com/articles/setting-your-username-in-git/
+2. https://help.github.com/articles/setting-your-commit-email-address-in-git/
+3. If you do not want your e-mail address published with your commits, GitHub has a couple extra steps for you: https://help.github.com/articles/about-commit-email-addresses/
+
 #### Challenge Details:
 
 Follow these steps to contribute to this project:
