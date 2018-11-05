@@ -16,3 +16,6 @@ cool is that. They also make delicious honey. So great.
 **My favorite app or sdk** is ARTKit. I just made this up, but
 who cares -- this is an alternate reality after all. ARTKit helps you make
 art things. Cool, huh?
+
+**DISCLAIMER** These statements exist within an alternate reality and
+should not be taken literally. Thank you.
