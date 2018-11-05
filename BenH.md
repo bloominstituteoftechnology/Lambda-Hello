@@ -1,17 +1,18 @@
 # Ben Hakes
 
 I am:
-* Curious
-* Sporty
-* Creative
+* Artsy
+* Boisterous
+* Loud
 
-**My favorite hobby** is catching bird scooters. It's a rush.
-Don't do it if you want to make money, though. Still,
-I like the process of looking for 'em and finding them. It's like
-hunting for treasure.
+**My favorite hobby** is watching birds. It's a rush.
+And most people don't know but you can make a lot of money doing it.
+Nevertheless, I would do it for free. I like the process of looking
+for 'em and finding them. It's like hunting for treasure.
 
-**My favorite animal** is the honey badger. They are small but
-oh boy are they tough. Don't believe me? Watch [this](https://www.youtube.com/watch?v=PoAWv7QhlZI) video.
+**My favorite animal** is the honey bee. They are small and they buzz. How
+cool is that. They also make delicious honey. So great.
 
-**My favorite app or sdk** is ARKit. I'm so excited to get into AR development
-and can't wait to build things in augmented reality.
+**My favorite app or sdk** is ARTKit. I just made this up, but
+who cares -- this is an alternate reality after all. ARTKit helps you make
+art things. Cool, huh?
