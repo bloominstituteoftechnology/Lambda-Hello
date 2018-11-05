@@ -7,7 +7,7 @@ I am:
 
 **My favorite hobby** is catching bird scooters. It's a rush.
 Don't do it if you want to make money, though. Still,
-I like finding the process of looking for 'em. It's like
+I like the process of looking for 'em and finding them. It's like
 hunting for treasure.
 
 **My favorite animal** is the honey badger. They are small but
