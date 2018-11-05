@@ -2,22 +2,20 @@
 
 ## Name
 
- Hello, my name is Jaspal.
+ Hello, my name is not Jaspal.
 
 ## Three words that describe me
 
- Mysterious
- Redundant
- Mysterious
-
-(I'm kidding - proactive, funny, gregarious)
+	Spontaneous
+	Athletic
+	Bored
 
 ## Favorite Hobby
 
- I like to read and catalog information for fun. Sometimes I share the information I find with people who I think will make good use of it. 
+ I like to knit clothes for my cats and then take pictures of them so that I can sell them on stock photo websites. It is pretty difficult, since I don't have any cats. 
 
 ## Favorite Animal
 
-	Cats are my favorite animal, as I've gotten homes for six strays.
+	Dogs are my favorite animal. I love to wake up at 4 am every day to take mine out. 
 
 
