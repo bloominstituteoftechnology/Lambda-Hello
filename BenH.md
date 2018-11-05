@@ -1,4 +1,4 @@
-# Ben Hakes
+# Ben H
 
 I am:
 * Artsy
