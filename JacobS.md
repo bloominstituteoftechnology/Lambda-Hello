@@ -1,7 +1,7 @@
 # Jacob Seppanen
 
 ### Three ways to describe me.
-Thoughtful, teachable, always tinkering
+Loud, boistrous, impulsive
 
 ### Something about me.
-In my spare time I often find myself at the piano.  I don't claim to have great musical talents nor do I generally care to play for an audience.  There is just something relaxing about sitting and playing for a while.
+As a hobby, I really like getting up at 3am and jogging 40 miles up the side of a mountain before my breakfast of kale and avacado on toast.
