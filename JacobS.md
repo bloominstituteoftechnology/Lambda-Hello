@@ -1,6 +1,6 @@
 # Jacob Seppanen
 
-### Three ways to describe me
+### Three ways to describe me.
 Thoughtful, teachable, always tinkering
 
 ### Something about me
