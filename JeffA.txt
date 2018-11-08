@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+
+std::string introduction(){
+	std::string intro = "Hello, my name is alternate persons. People often just call me alt, that is fine.";
+	return intro;
+}
+
+std::string wordsToDesc(){
+	std::string words = "negative, short fused, needs a sholder to lean on";
+	return words;
+}
+
+std::string aboutAlt(){
+	std::string about = "Programming is boooringgg :< Is is a complete waste of time. All music is terrible. Cats are stupid. School is not worth the effort. Sigh why is this still a script, just be normal :<.";
+	return about;
+}
+
+int main()
+{
+	std::cout << introduction() << std::endl;
+	std::cout << "Some words to alternate person: " << wordsToDesc() << std::endl;
+	std::cout << aboutAlt();
+	std::cout << "\nGo Away!!! :<";
+}
+
+
+
+
