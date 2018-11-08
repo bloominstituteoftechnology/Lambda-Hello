@@ -1,4 +1,4 @@
 Hello, my name is Hamza Elkhoudiri. 
-3 words that describe me are ambitious, confident, motivated.
+3 words that describe me are lazy, shy, selfish.
 
-My hobby is learning new things, whether it be programming, science or anything related. If I am interested in anything, I will take the time to learning well.  
+My hobby is watching american football. I like to get together with my friends on sundays to watch the games.  
