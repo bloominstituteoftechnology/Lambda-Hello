@@ -7,7 +7,4 @@
 
 I have many hobbies. I like stuff. Mechanical keyboards, cars, barefoot shoes.., some I am ashamed of like kdramas and kpop and some I recently got into like automatic watches.
 
-three words that describe someone completely unlike me:
-1)tall
-2)organized
-3)fast-learner 
+
