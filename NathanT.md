@@ -29,4 +29,4 @@ My name is Evil Nate. I live in the Upside Down.
 
 ## My Favorite Things
 
-I like to knock people's ice cream cones on to the ground.
+I like to knock people's ice cream cones on to the ground. That's pretty fun.
