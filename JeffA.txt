@@ -1,0 +1,30 @@
+#include <iostream>
+#include <string>
+
+std::string introduction(){
+	std::string intro = "Hello, my name is Jeffery. People often just call me Jeff, that is fine.";
+	return intro;
+}
+
+std::string wordsToDesc(){
+	std::string words = "positive, patient, independant";
+	return words;
+}
+
+std::string aboutMe(){
+	std::string about = "I love programming :D Its the ultmate freedom of expression. I also love music and rhythm games. Cats are cool. Lambda has been great so far, great staff and students ^-^. HAHA im silly :P why did I make this into a script? I really don't know.";
+	return about;
+}
+
+int main()
+{
+	std::cout << introduction() << std::endl;
+	std::cout << "Some words to describe me: " << wordsToDesc() << std::endl;
+	std::cout << aboutMe();
+	std::cout << "\nThank you for reading!!! :D";
+	return 0;
+}
+
+
+
+
