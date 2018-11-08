@@ -22,6 +22,7 @@ int main()
 	std::cout << "Some words to describe me: " << wordsToDesc() << std::endl;
 	std::cout << aboutMe();
 	std::cout << "\nThank you for reading!!! :D";
+	return 0;
 }
 
 
