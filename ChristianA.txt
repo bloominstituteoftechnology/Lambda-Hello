@@ -1,12 +1,5 @@
 Name: Christian Allen
 
-3 words that describe me... 
-    1. rude
-    2. mean
-    3. dumb
+Second Alternate Branch
 
-My favorite hobby is probably playing soccer - been playing it my whole life. 
-
-Favorite color: blue
-
-Only have some basic skills in coding. Loving Lambda School so far and I'm learning a lot.
+Hopefully this is working...
