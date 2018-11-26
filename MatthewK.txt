@@ -1,9 +1,6 @@
-Hi! My name is Matthew and I'm teaching myself to code! 
-I'm taking it upon myself to go through the Lambda school curriculum to give me structured guidance on what to learn and doing
-the assignments to gauge where I am at. Hopefully one day soon they will have their plans for Canada so I can join. Until then,
-I will continue to code at least 6 hours every day. 
+Hi! My name is Matthew,
 
-1. I love Basketball.
-2. I love food.
-3. I love to code. 
+1. I don't like Basketball.
+2. I don't like food.
+
 
