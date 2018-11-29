@@ -1,11 +1,11 @@
-# Hi my name is John O'Keefe
+# Hi my name is John O'Keefe (alternate_reality)
 
 ***
 
 Three words that describe me are:
-- **honesty**
-- **integrity**
-- **character**
+- **billionaire**
+- **philanthropist**
+- **Bibliopole**
 
-My favorite hobby is walking sipping coffee while walking a trail with my girlfriend.
-My favorite animal is a penquin.
+My favorite hobby is taking over small countries and improving their infrastructure.
+My favorite animal is a lion.
