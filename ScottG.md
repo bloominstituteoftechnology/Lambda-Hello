@@ -4,4 +4,4 @@
 Words. Need. More.
 
 ## My passion
-I Love Lamp.
+I Love Lamp!
