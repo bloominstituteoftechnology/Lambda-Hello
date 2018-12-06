@@ -1,5 +1,8 @@
 ## Wilfred Morgan
 
+## Affliation
+ - Avengers
+
 ### Description
  - Spy
  - Painter
