@@ -25,4 +25,4 @@ Technology is growing fast and changing our lives-- I want to inspire and mentor
 I use my coding skills to translate and build visual components of creative products I design from scratch(sometimes recycle code to be productive), 
 and use my problem-solving skills to analyze where the bug is coming from.
 
--- @iteldomingo
+-- @iteldomingo --
