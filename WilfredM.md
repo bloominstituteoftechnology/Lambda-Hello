@@ -1,9 +1,9 @@
 ## Wilfred Morgan
 
 ### Description
- - Christian
- - Husband
- - Student
+ - Spy
+ - Painter
+ - Singer
 
 ### About Me
-I am a system administrator and database administrator who is now learning how to program on a professional level. My goal is to combine my professional background with my newly acquired programming knowledge to build middleware and data integration applications.
+When I'm not on assignment as a intelligence officer for some unnamed government agency. I enjoy painting random pictures of fruit or singing in the middle of a shopping mall for no apparent reason.
