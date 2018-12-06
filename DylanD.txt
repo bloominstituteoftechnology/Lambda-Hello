@@ -1,3 +1,8 @@
 Hello I'm Dylan Dislers.
+<<<<<<< HEAD
 Very short, terrible temper, 8 toes on one foot.
 I have a few differnt hobbies. One is watching paint dry. Oh man I love doing that A LOT.
+=======
+Very short, terrible temper, 7 toes on one foot.
+I have a few differnt hobbies. One is watching paint dry. Oh man I love doing that.
+>>>>>>> c24a7103bf4acac9337876194303eb99cd0f53c5
