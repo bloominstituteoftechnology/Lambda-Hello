@@ -1,8 +1,8 @@
-I am Steve Kutz 
+I am not Steve Kutz 
 
-I am curious, persistent, and havea silly/sarcastic sense of humor
+I am never curious, not persistent, and have no sense of humor
 
-I like to play piano and compose music. I also spend lots of time with my Labrador Maggie(take her everywhere I go) 
-and also like to keep healthy and do crossfit.
+I like to play the triangle and don't compose music. I hate my Labrador Maggie(she stays at home all day) 
+and also like to eat fast food and sit on my couch.
 
 
