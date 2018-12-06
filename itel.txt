@@ -1,3 +1,7 @@
+
+
+
+
 //About Itel
 My name is Itel Domingo, you can call me "Itel". To pronounce it, "I TELl you"(did you get the pun there).
 The three words that describes myself is Passionate, Self-starter and Driven as for personality I am Bubbly, Patient and definitely can work with everyone.
@@ -21,3 +25,4 @@ Technology is growing fast and changing our lives-- I want to inspire and mentor
 I use my coding skills to translate and build visual components of creative products I design from scratch(sometimes recycle code to be productive), 
 and use my problem-solving skills to analyze where the bug is coming from.
 
+-- @iteldomingo
