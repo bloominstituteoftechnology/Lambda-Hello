@@ -2,8 +2,7 @@ Hi, LD here.
 
 Some Words:
 
- - Sports
- - Food
- - Music
+ - words
+ - and more
 
-I enjoy music, playing and watching sports.
+And then there's skydiving.
