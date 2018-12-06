@@ -1,5 +1,5 @@
 # ABOUT POLY GOVEIA     
 
-My name is Poly Goveia, and I am empathetic, curious, and driven. 
+My name is Poly Goveia, and I am athletic, judgemental, and extroverted. 
 
-I am a huge foodie. Pho is my all time favorite dish. Trying new foods is my favorite pass time. At the same time I am very picky, but I will _almost_ always try something once. 
+I am a huge sports fan. I have played every sport known to man, and I love all of them. I love watching, playing, and keeping myself informed on all things sports.
