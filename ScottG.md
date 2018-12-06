@@ -1,7 +1,7 @@
 # Scott G.
 
 ## Who I am in three words
-Words. Need. More.
+Michael. Scott. Scott.
 
 ## My passion
-I Love Lamp!
+"You miss 100% of the shots you don't take - Wayne Gretzky" -Michael Scott
