@@ -1,7 +1,5 @@
 Hello, my name is Marc Gutnayer. I am:
 
-Tall
-Funny
-Passionate
-
-My favorite hobby is trading and investments.
+Short
+Dull
+Boring
