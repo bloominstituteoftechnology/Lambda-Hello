@@ -1,5 +1,2 @@
-Three words that describe me are *selfish*, *lazy*, and *angry*
-
-I dont enjoy anything.
-Favorite animal a *snake*
+I am making an amend here. My alternate reality is the same as reality. I enjoy everything
 
