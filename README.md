@@ -4,7 +4,7 @@ Introductions to the Lambda Community
 ### Pull Request Challenge
 
 This GitHub repository helps you practice the steps used to participate in open source code projects. You'll need to fork, clone, add, commit, push, and create a pull request to join in.
-
+ 
 #### Challenge Details:
 
 Follow these steps to contribute to this project:
