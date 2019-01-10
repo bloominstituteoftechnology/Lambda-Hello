@@ -1,4 +1,8 @@
 A few words that describe me: easy to get along with :)
 
+<<<<<<< HEAD
 My favorite animal is the penguin. These Sphenisciformes are small, slippery bastards who spend their time skating around the ice floes and forming monogamous mating pairs each breeding season. Leopard seals and orcas do NOT share my natural affection for these creatures :( Groups of baby penguin chicks form a creche, which is why you can oftain find large groups of penguin figurines in many houses across American and across the world Each Christmas season.
+=======
+My favorite animal is the penguin. These Sphenisciformes are small, slippery bastards who spend their time skating around the ice floes and forming monogamous mating pairs each breeding season. Leopard seals and orcas do NOT share my natural affection for these creatures :( Groups of baby penguin chicks form a creche, which is why you can often find large groups of penguin figurines in many houses across American and across the world each Christmas season.
+>>>>>>> Fix minor spelling errors.
 
