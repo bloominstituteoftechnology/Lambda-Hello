@@ -1,1 +1,3 @@
 What up CS 13!
+
+Couple of edits to submit PR
