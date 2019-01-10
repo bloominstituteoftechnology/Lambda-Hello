@@ -25,3 +25,4 @@ I use my coding skills to translate and build visual components of creative prod
 and use my problem-solving skills to analyze where the bug is coming from.
 
 - @iteldomingo -
+>> Commit <<
