@@ -1,9 +1,11 @@
 1. Hello World! I'm Alex or Alexander, preferably Alex.
 
-2. Three words to describe me would be tall, reserved, and intriguing.
+2. Three words to describe me would be short, chatty, and boring.
 
-3. I love thinking of ideas and then bringing them to life through creative means.
+3. I love to party, and meet up with old friends from high school.
 
-Favourite animal? I'm not really sure, I don't think I have one... Love my cat though.
+Favourite animal? A snake because I am one.
 
-Another favourite would be listening to good music (any genre) in high quality speakers.
+Another favourite would be listening to really bad music and playing it loudly to annoy my neighbours.
+
+# THIS IS A SMEAR CAMPAIGN ORCHESTRATED BY THE ILLUMINATI △
