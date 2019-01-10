@@ -1,7 +1,7 @@
 # Maksim Vakarchuk
 
-- Resourceful
-- Motivated
-- Responsible
+- Unresourceful
+- Unmotivated
+- Unresponsible
 
-My favorite hobby is coding and learning new tech stuff. I have learned computer repair and networking also. My favorite animal are dogs. I can speak russian also.
+My favorite hobby is no learning grammar or english spelling. My favorite animal are hippos. I can only speak german.
