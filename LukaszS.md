@@ -1,6 +1,6 @@
 # Hey, I am Lukasz...
 
-...and I am:
+## ...and I am:
 - ambitious
 - creative
 - diligent
