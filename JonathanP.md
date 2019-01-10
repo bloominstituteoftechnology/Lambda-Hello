@@ -17,7 +17,7 @@ Hello, my name is Nathanoj. I am a human.
 Three words (animals) that would describe me are:
 
 - swan
-- wolf
+- leopard
 - doggo
 
 In my spare time, I like to run marathons and show off my extensive trophy collection. Did I mention my modeling career? I have over six million followers. In fact, I should probably be taking selfies right now. Seeya!
