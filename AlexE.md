@@ -8,4 +8,4 @@ Favourite animal? A snake because I am one.
 
 Another favourite would be listening to really bad music and playing it loudly to annoy my neighbours.
 
-# THIS IS A SMEAR CAMPAIGN ORCHESTRATED BY THE ILLUMINATI △ MUAHAHAHA!
+# THIS IS ALL TRUE I SWEAR
