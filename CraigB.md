@@ -1,5 +1,5 @@
-My name is Craig Bourne.
+My name is not Craig Bourne.
 
-Three words that describe me are tall, calm, and determined.
+Three words that describe me are loud, short, and impulsive.
 
-My favorite hobby is playing guitar. I have been playing for 18 years.
+My favorite hobby is playing dancing. I like Flamenco dancing the most.
