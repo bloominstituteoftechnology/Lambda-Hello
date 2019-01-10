@@ -1,7 +1,7 @@
-### Delba de Oliveira
+### NOT Delba de Oliveira
 
-**3 words to describe me:** Meticulous, Creative, Plant-Killer
+**3 words to describe me:** Sporadic, Cat-loving, Greenfingers
 
-**Hobbies:** Apart from coding, I enjoy practising photography and exploring new places.
+**Hobbies:** Fishing
 
-**Favourite Animal**: Pandas, because they're cute and clumsy. I mean, how can you ever hate on a Panda?
+**Favourite Animal**: Snakes
