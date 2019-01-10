@@ -1,4 +1,4 @@
 # Timothy Shores
-**Timid, nervous and scholastic**
+**Wicked Smart**
 
-I grew up with my uncle Ben and aunt May in New York. I was a hononor student at Midtown High School. I work as a photojournalist for the Daily Bugle where I take pictures of Spiderman. I am secretly in love with Mary Jane Watson.
+I work at a college as a janitor even though I feel like I'm smarter than most of the people who go there. Sometimes I see an equation written on a blackboard like half an equation. I'll just figure it out. My best friend is Ben Affleck.
