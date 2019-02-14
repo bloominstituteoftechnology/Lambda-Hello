@@ -16,7 +16,7 @@ There are many problems that we may face on a daily basis and finding solutions 
 
 ### Favorite Hobbies
 
-I enjoy sitting or laying down. While performing these activities, it is when I can patiently wait for any happiness to come into my life.
+I enjoy sitting or laying down. While performing these activities, it is when I can wait patiently for any happiness to come into my life.
 
 ### Networking
 
