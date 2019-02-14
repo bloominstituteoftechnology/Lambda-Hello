@@ -1,0 +1,1 @@
+Hi, I'm Joshua Gorton.  I studied music at Stetson University.  I started by studing Vocal Performance, but soon found that, although fun, didn't really provide much enjoyment.  So I switched to Digital Music which focused on Music Theory and Compostion and Sound Engeneering.  This is what brought me into Coding!
