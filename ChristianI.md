@@ -17,3 +17,7 @@ There are many problems that we all face on a daily basis and my acomplishments 
 ### Favorite Hobbies
 
 I enjoy running or trail walking in the outdoors. While performing these activities, they become a stage where I can focus in the present, preparing myself for future new experiences and challenges.
+
+### Networking
+
+I enjoy working with people who share my enthusiasm for creating solutions to complex problems that meets both technical and design requirements. If you would to connect, add me on [LinkedIn!](https://www.linkedin.com/in/chrisipanaque/ "LinkedIn.com/in/ChrisIpanaque")
