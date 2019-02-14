@@ -1,6 +1,6 @@
 # Christian Ipanaque
 
-Hi! My name is Christian and I am unemployed! These are 3 words that describe who I am and what my values are:
+Hi! My name is Christian and I am unemployed! These are 3 words that describe me:
 
 ### Ignorant
 
