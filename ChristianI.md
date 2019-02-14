@@ -1,23 +1,23 @@
 # Christian Ipanaque
 
-Hi! My name is Christian and I am a Full Stack Software Engineer located in Seattle, WA! These are 3 words that describe who I am and what my values are:
+Hi! My name is Christian and I am unemployed! These are 3 words that describe who I am and what my values are:
 
-### Intellectual
+### Ignorant
 
-I enjoy learning and understanding modern complex concepts and acquiring new knowledge that create solutions to the problems I face as a Software Engineer.
+I don't enjoy learning and understanding any new knowledge.
 
-### Resiliant
+### Delicate
 
-When solving problems, the chosen solutions may not be the correct ones. It is imperative for me to learn from those mistakes and keep on pursuing other solution alternatives.
+When facing problems, the chosen solutions may not be the correct ones. I don't learn from those mistakes and will never pursue or consider other solution alternatives.
 
-### Diligent
+### Lazy
 
-There are many problems that we all face on a daily basis and my acomplishments for the day is being persistant to finding solutions to those problems.
+There are many problems that we may face on a daily basis and finding solutions to those problems is a lot of hard work. Relaxing is my main accomplishment for the day.
 
 ### Favorite Hobbies
 
-I enjoy running or trail walking in the outdoors. While performing these activities, they become a stage where I can focus in the present, preparing myself for future new experiences and challenges.
+I enjoy sitting or laying down. While performing these activities, it is when I can wait patiently for any happiness to come into my life.
 
 ### Networking
 
-I enjoy working with people who share my enthusiasm for creating solutions to complex problems that meets both technical and design requirements. If you would to connect, add me on [LinkedIn!](https://www.linkedin.com/in/chrisipanaque/ "LinkedIn.com/in/ChrisIpanaque")
+I enjoy working with people who share my enthusiasm for sitting down and do nothing with their life. If you would to connect, add me on [LinkedIn!](https://www.linkedin.com/in/chrisipanaque/ "LinkedIn.com/in/ChrisIpanaque")
