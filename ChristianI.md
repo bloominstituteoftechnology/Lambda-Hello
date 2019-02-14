@@ -16,4 +16,4 @@ There are many problems that we all face on a daily basis and my acomplishments 
 
 ### Favorite Hobbies
 
-I enjoy running or trail walking in the outdoors. While performing these activities, they become stage where I can focus in the present, preparing myself for future new experiences and challenges.
+I enjoy running or trail walking in the outdoors. While performing these activities, they become a stage where I can focus in the present, preparing myself for future new experiences and challenges.
