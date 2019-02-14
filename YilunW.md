@@ -1,4 +1,4 @@
-Hi, my name is Yi Lun Weng. 
-I am creative, spiritual, and compassionate. 
-My favorite hobby is spending time with family. 
-My love all animals.
+Hi, my name is  Weng Lun Yi.
+I am funny, traditional, and orderly.
+My favorite hobby is cooking.
+My hate all animals.
