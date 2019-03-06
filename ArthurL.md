@@ -1,11 +1,11 @@
-## About Arthur J. Lei
+## About Alternate Reality Arthur J. Lei
 
-My name is Arthur J. Lei. I am curious, driven, and passionate. 
+My name is Arthur J. Lei. I am uninterested, lazy, and indifferent. 
 
 My favorite hobbies are: 
-- trivia
-- reading (in English, in French, and in Italian)
-- writing markdown 
+- ignorance
+- listening to 80s soft rock
+- writing PHP
 
-My favorite animal is *homo sapiens sapiens* (Yup, that's right--US! We're some damn cool)
+My favorite animal is *panda*
 
