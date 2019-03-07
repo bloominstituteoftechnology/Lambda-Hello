@@ -1,6 +1,5 @@
 {
-  "name": "ruby",
-  "desc": "webpt5 @ lambda",
-  "bout": "ama puter nerd and i like all things putery. if i were stranded on an island i'd be fudged. all aboard the struggle bus. choo choo.",
-  "url": "https://github.com/netrunnerd"
+  "name": "rudy",
+  "desc": "actually uses ie",
+  "bout": "and comic sans as a font for everything. i looooove me some comic sans. can't get enough of it. real good font. comic sans and wingdings from here on out, folks. yeet."
 }
