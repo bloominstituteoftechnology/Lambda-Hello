@@ -2,7 +2,7 @@
 
 I used https://dillinger.io/ to create this file.
 
-I placed my named "KathyC.md" file in the WEBPT5 folder.
+I created the WEBPT5 folder and placed my named "KathyC.md" file inside.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://lambdaschool.com/)
 
