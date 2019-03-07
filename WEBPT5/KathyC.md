@@ -11,14 +11,12 @@ This is my first markdown file ever. I'm submitting it as part of my
 
 # Instructions:
 
-- Edit your file.
-- Introduce yourself by name.
-- List three words that describe you.
-- Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.
-- After writing, add your file to your project, commit, and push to your repository.
-- Create a pull request back to the original LambdaSchool repository.
-- Finish by adding a comment to your pull request.
-  Call out your Project Manager by GitHub user-id (for example @MyPM, using a real GitHub account name) and mention the phrase "Core Hello Challenge".
+- In your cloned/forked repository, create a new branch named alternate_reality.
+- Edit the text file you created to describes yourself by listing three words that describe a someone completely unlike you. Edit your sentences to describe a hobby you don't participate in or another topic that reflects an alternate-reality version of who you are, suitable for sharing on a public site.
+- Use git checkout to switch between your alternate_reality and master branches and confirm that your changes only appear in your branch.
+- Commit, and push your alternate_reality branch to your forked repository.
+- Create a pull request from your alternate_reality branch back to this repository.
+- Finish by adding a comment to your pull request that call out your project manager by GitHub user-id and mentions the phrase "Branch Challenge"
 
 # Name
 
@@ -26,12 +24,12 @@ Kathy Cuevas
 
 # Three Words
 
-     Curious
-     Daring
-     Intentional
+     General
+     Mean
+     Complacent
 
 # Sentences
 
-- My favorite hobby is reading highly imaginitive stories and coming up with them as well
-- I love almost all animals except for BUGS.
-- I enjoy both cooking and eating.
+- I do not participate in politics
+- I am not fond of entomophilia.
+- I do not enjoy dull or ordinary things.
