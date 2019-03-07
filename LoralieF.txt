@@ -1,8 +1,8 @@
 						Hello my name is Loralie Flint
 			THREE WORDS THAT DESCRIBE ME
-				funny 
-				caring
-				hard-working
+				weird 
+				boring
+				lazy
 
 	I currently wor at the Olive Garden Ive worked here for almost 6 yrs and i am so excited for this journey of learning at Lambda School
 	
@@ -12,3 +12,5 @@
 	added lines
 	some
 	tet
+
+	new branch
