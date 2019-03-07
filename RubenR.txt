@@ -1,0 +1,6 @@
+{
+  "name": "ruby",
+  "desc": "webpt5 @ lambda",
+  "bout": "ama puter nerd and i like all things putery. if i were stranded on an island i'd be fudged. all aboard the struggle bus. choo choo.",
+  "url": "https://github.com/netrunnerd"
+}
