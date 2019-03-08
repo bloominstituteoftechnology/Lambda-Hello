@@ -15,18 +15,19 @@ About:            I currently work as a Purchasing Agent/Buyer which can be a ve
                   communication, problem-solving and a whole host of translatable life/work skills.
                 
                   I'm also very involved in the training of new hires at my company which I really enjoy,
-                  It's also the sole aspect of my job that brings out my best qualities in myself 
-			      which are patience, kindness, and sensitivity to the needs of other people.
+                  It's also the sole aspect of my job that brings me the most joy and brings out 
+		  the the best qualities in myself: patience, kindness, and sensitivity to the needs of 
+		  other people.
                   
                   I am most happy at work when I'm sitting with a new hire, helping them the understand
                   the various different work-flows, how to use our purchasing software, and the wider, complex 
                   nature of industrial procurement.
                   
                   I'm least happy when I'm yelling at a supplier for shipping materials a week late, 
-                  to the wrong address and I have to figure out a way to get it re-routed to the plant 
+                  to the wrong address and I have to figure out how to get it re-routed to the plant 
                   before my customer's production-line shuts down. 
                   
-                  I truly look forward to the day when the only thing I'm yelling at is my computer monitor.
+                  I truly look forward to the day though when the only thing I'm yelling at is my computer monitor.
 
 Coding:           I first got into coding from just taking Intro to Programming classes at College. I eventually 
                   graduated cum laude with a B.S. in Computer Science. 
