@@ -9,3 +9,4 @@ My favorite hobbies are:
 
 My favorite animal is *homo sapiens sapiens* (Yup, that's right--US! We're some damn cool)
 
+My favorite fictional detective is Sherlock Holmes of Baker Street.
