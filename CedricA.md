@@ -1,8 +1,6 @@
 Hello, I'm Cedric Amaya!
 
-I word describe myself as: determined, friendly, and chill.
+I word describe myself as: lazy, unfriendly, and uptight.
 
-My favorite hobby is programming. I consider myself an indie maker and as such,
-I enjoy building side projects that I hope will one day be able to make me some
-extra side income. My current project is called unearth and it aims to improve
-Reddit's saving functionality.
+My favorite hobby is working out. Everyday, I hit the gym for at least three
+hours in order to stay swole. Also, I skip leg day.
