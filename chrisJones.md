@@ -1,3 +1,1 @@
-My Name is Chris Jones and I am a Part time Web development student at Lambda
-Three words that discribe me? Honest, Patient Loyal[D[D[D[D[D[D[D[C and, loyal.
-Some hobies I enjoy[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[Cb[C[C[C[C[C[C[C[C[C[C are digital artwork in Photoshop, reading, Being in the outdoors. I also like to make hand made knives for camping and hunting. I am also a musician, and I love to code!
+I don't like sports to much. Someone that is opposit of me would be: Outspoken, Proud, DishonestMy name is Chris Jones and I am a Part time web development student at Lambda School. Three words that discribe me> Honest, Patient and loyal. Some hobbies I enjoy are: digital art in Photoshop, reading, playing music, Being outdoors in the woods, and  my newest hobby is Knife making for camping and hunting et. I don;t like sports to much, Someone that is opposite of me would be: Dishonest, Impatient, and Disloyal.
