@@ -11,3 +11,4 @@ My favorite animal is *panda*
 
 My favorite old-timey detective is Miss Marple not Sherlock Holmes. 
 
+My favorite food is lutefisk.
