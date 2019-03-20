@@ -1,10 +1,10 @@
 # Basil Havens  
 
-## Android Development 2  
+## Web Developer 105  
 
-### Wednesday, March 20th, 2019  
+### Wednesday, March 20th, 1999  
 
-Originally from the Seattle area. Still living here. Attended the University of Washington.  
+Originally from the Detroid area. Not living there. Attended the University of Pittsburgh.  
 
-> Enjoys travelling, hiking, socializing
-> I watch cats, dogs, houses, and the mind
+> Enjoys eating, skating, hunting
+> I watch cars, daisies, sports, and bees
