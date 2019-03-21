@@ -2,6 +2,5 @@ Lazy
 Boring
 Jock
 I hate computers and tech. I'm not even sure why I'm here.  I'm Ethan.  They keep calling me something else...
-<<<<<<< HEAD
 
->>>>>>> 26d2cb6edf4a594d141f8b5bed2ba52f576bb914
+Filechange to experiment with merge/ammends
