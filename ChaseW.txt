@@ -5,3 +5,4 @@ var descMe[3] = {quiet, patient, determined };
 
 var love = playing soccer, enjoy = family, being = wonderful;
 
+change=true;
