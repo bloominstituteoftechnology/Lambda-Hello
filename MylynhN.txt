@@ -1,3 +1,3 @@
 I'm Mylynh Nguyen. 
-I'm optimistic, adaptable, and empathetic. 
-I love playing video games. I created my first webpage from scratch when I was 11 using mspaint for background layouts, created tables and used inline css. My favourite dog is the German Shepherd, and I have an orange tabby named CatDog.
+I'm a pessimist, obstinate, and a unempathetic. 
+I hate playing video games. I created my first webpage from a website builder when I was 11, using stock pictures for background layouts, inserted fixed tables and used a built in css. I hate the German Shepherd, and I have a golden retriever named DogCat.
