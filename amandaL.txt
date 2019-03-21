@@ -1,1 +1,3 @@
-I am editing this file to show you I know how to use git and github! I am so smart. :D
+List three words that describe you: eccentric, intelligent, creative 
+Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.
+I have cats. Two of them to be exact. They are pretty fun until you're trying to code and they decide to refactor it by walking across the keyboard. 
