@@ -2,8 +2,8 @@
 Hey my name is Doug B
 
 ## About me
-Person, right-handed, rock climber
+Dog, four paws, exceptional sniffer
 
-I enjoy reading about computer history and watching cat videos on the internet.
+I like going for long walks and looking for sticks.
 
-
+alternate reality aaa
