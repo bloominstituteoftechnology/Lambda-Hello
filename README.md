@@ -59,3 +59,4 @@ Push further by practicing the way you amend an existing commit.
 1. Making changes to either branch of your file and amend your commit. 
 2. Push your amended commit to GitHub.
 3. Leave a comment saying so on your pull request and call out your project manager by GitHub user-id.
+## @Sam Jeffcoat "branch challenge" 
