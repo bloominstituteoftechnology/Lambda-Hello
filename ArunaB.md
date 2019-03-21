@@ -1,7 +1,7 @@
 Hello, I am Aruna Benjamin.
 
-Three words that describe me are 'Does'nt','Hurt','Others'.
+Three words that does not describe me are, 'I'm','not','fake'.
 
-My favorite hobby is singing. I have won few competitions. Singing and listening to music are
-my favorite stress busters. I listen to different kinds of music based on the current mood.
-Favorite animal is Horse. I have a new favorite sport which is skiing.
+Being fake is not worth it. I would not like to be one. I dont know swimming.
+How would someone not like music. How amazing it would be if time travel is real.
+How amazing will it be, if there is really a alternate universe.
