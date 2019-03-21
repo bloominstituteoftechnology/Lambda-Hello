@@ -4,5 +4,13 @@ var Moses = {
     favoriteHobby: 'watching anime',
     favoriteAnime: 'Death Note',
     secondFavoriteAnime: 'Steins; Gate',
-    currentlyTheCoolestStudentAtLambda: true
+    currentlyTheCoolestStudentAtLambda: true,
+    myOpposite: { ...someTotallyUncoolPerson }
+}
+
+var someTotallyUncoolPerson = {
+    name: 'something dorkish and not Biblical',
+    adjectives: ['dweeb', 'mortal', 'virgin'],
+    favoriteHobby: 'eating dirt',
+    favoriteAnime: 'Avatar the Last Airbender' // That's not even an anime bro 😂
 }
