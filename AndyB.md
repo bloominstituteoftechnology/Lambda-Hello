@@ -1,5 +1,5 @@
 Hi, I'm Andy Bettisworth.
 
-Using three words to NOT describe myself: fake, rude, skydiver.
+Using three words to describe myself: genuine, compassionate, triathlete.
 
-A hobby that I'll never do is skydiving. I like the ground. The ground is my friend. If I fly I want millions of dollors worth of equipment and expertise protecting me.
+Favorite hobby is triathlons. Swim. Bike. Run. I love doing all three. Sometimes back to back in a short amount of time.
