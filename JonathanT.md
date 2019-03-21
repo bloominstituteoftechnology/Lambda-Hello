@@ -1,9 +1,9 @@
-# Howdy
+# Howdy from an alternate reality
 
 My name is Jonathan Taylor and here are three words that describe me:
 
-- happy
-- dopey
-- sleepy
+- bashful
+- grumpy
+- sneezy
 
-My favorite animal is the wolf. Wolves live and hunt in packs and are known to roam large distances.
+I enjoy ballet dancing. Real men don't lift weights, they lift women.
