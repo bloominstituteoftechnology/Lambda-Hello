@@ -1,0 +1,20 @@
+"Edit your file. Introduce yourself by name. List three words that describe you. Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site."
+
+Hello! I'm James Starks and here's a little information about me.
+
+Three words that describe me: 
+
+1. Alien
+2. Genius One day, mentally incompacitated on another
+3. Runs on Intuition for everything
+
+( not 3 words, I know... )
+
+My favorite hobbies usually involve creating something. 
+
+1. UE4 game development
+2. Makeup
+3. I paint D&D miniatures proffesionally
+4. I play D&D weekly
+5. Annnnnd a BUNCH more
+
