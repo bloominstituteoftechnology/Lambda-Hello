@@ -4,5 +4,5 @@ Three words that describe me are 'Does'nt','Hurt','Others'.
 
 My favorite hobby is singing. I have won few competitions. Singing and listening to music are
 my favorite stress busters. I listen to different kinds of music based on the current mood.
-My current emotions are Favorite animal is Horse. I have a new favorite sport which is skiing.
+Favorite animal is Horse. I have a new favorite sport which is skiing.
 
