@@ -1,7 +1,7 @@
 # Jeffrey Carpenter
 
 ## Who I am in three words
-Geek, Learner, Analytical
+Outgoing, Adventurous, Assertive
 
 ## My favorite
-I love playing poker. There is something about mixing simple math and observing your opponents that is very intriguing to me.
+My favorite thing in the world is working out. I try to go to the gym every day.
