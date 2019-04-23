@@ -12,4 +12,6 @@ My name is Michael **redacted**.
 ### More about me
 
 * I enjoy Big Bang Theory.
-
+* I think Arrested Development is a bad show.
+* Macs suck!
+* I hate technology!
