@@ -12,3 +12,4 @@ I'm a coffee snob and I have a coffee iPhone app in beta with Test Flight.
 
 [Brew Coffee app](https://BrewCoffeeApp.com)
 
+Added one more line, to see it in the Pull Request.
