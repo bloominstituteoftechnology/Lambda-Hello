@@ -2,8 +2,8 @@
 
 ## Who I am in three words
 
-Fun, lazy, and hungry
+boring, active, and starving
 
 ## My passion
 
-I love going outside when its nice outside and playing some games with my friend, I hope to learn a lot from Lambda and start on my coding journey.
+I hate going outside when its nice outside and only like rain, and i hate my friends.
