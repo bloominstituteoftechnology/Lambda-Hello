@@ -9,3 +9,6 @@ I enjoy fishing. Sitting all day in a boat, getting sun burnt, trying to catch f
 I'm a heavy tea drinker. Mmmmm herbal tea.
 
 Simple change before a push.
+
+
+Today is a new day!
