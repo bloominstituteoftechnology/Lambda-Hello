@@ -7,3 +7,5 @@ towards being a full stack or software dev
 in the future. Three words I would use to 
 describe myself are flexible, goal-driven, 
 and compatable. Have a great day!
+
+testing for mac setup
