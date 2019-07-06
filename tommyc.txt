@@ -1,0 +1,12 @@
+Hi! I'm Tommy. 
+
+- Ginger
+- Pilot
+- Seattle-ite.
+
+My favorite hobby is flying -- my dad, and both of my brothers are pilots and I'm currently working on my own certificate. I fly out of KBFI, a small airport here in Seattle.
+
+Cheers,
+TC
+
+p.s. This is the bit I added for my amended commit.
