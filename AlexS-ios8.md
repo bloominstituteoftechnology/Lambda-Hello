@@ -2,4 +2,4 @@ My name is Alex Shillingford. Three words that I would use to describe me would 
 •Extrovert
 •Artistic
 
-I my hobbies include reading the Terms and Conditions for websites and applications before I accept or join and doing my taxes.
+I my hobbies include reading the Terms and Conditions for websites and applications before I accept or join and doing my taxes. I don't lik
