@@ -1,2 +1,12 @@
 
-Hi my name is Jeffrey, I wrote this all using terminal.
+Hi my name is Jeffrey
+
+Likes:
+Biking
+Board Games
+Dancing
+
+Alternate-reality hobbies:
+Watching ESPN
+Folding laundry
+Vegan
