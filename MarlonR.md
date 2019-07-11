@@ -15,3 +15,5 @@ One of my favorite quotes:
 > People won't always remember what you did or what you said, but they will remember how you made them feel. - Maya Angelou
 
 Checkout my [(GitHub)](https://github.com/marlonjames71)
+
+I shall say Goodbye! Take care!
