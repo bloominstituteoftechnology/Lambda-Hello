@@ -1,7 +1,6 @@
 # Vici Shaweddy
 
 ## Who I am in three words
-<!--Thoughtful, Optimistic, Achiever-->
 Honest, Direct, Realistic
 
 ## My passion
