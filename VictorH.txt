@@ -1,7 +1,3 @@
-My name is Victor Ha.
-Chinese
-tall
-skinny
+muscular,agility,lucky
 
-My favorite hobby is basketball. 
-My favorite animal is dog.
+i dont participate in swimming.
