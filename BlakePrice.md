@@ -1,15 +1,11 @@
 # Hi, I'm Blake!
 
-Three words that describe me:
+- serious
+- books
+- lies
 
-- Happy-go-lucky
-- Gamer
-- Honest
+## **Hunting**
 
-## **PUPPIES**
+I like to hunt for food with my bow and arrows.
 
-Last year, I adopted two pretty babies. 
-Ella, a Pembroke Welsh Corgi, and Emi, a German Shepherd. 
-They're only a year old but it feels like they've caused more 
-than a years worth of problems, especially for the corners of my baseboards...
-
+A line about hunting!
