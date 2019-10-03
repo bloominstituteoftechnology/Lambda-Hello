@@ -11,3 +11,7 @@ I live in Bellingham, WA. I have a Master's and Bachelor's degree in Music Compo
 I've been meditating off & on for about 6 years, really on for about 2 years (currently try to get in about an hour every day). I also still play music in various forms. I really like pizza.
 
 That's probably enough for now?
+
+```
+# this is an amendment
+```
