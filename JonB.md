@@ -1,13 +1,9 @@
-# Hi, I'm Jon Bash!
+# HOWDY HOWDY HOWDY I AM JON BASH HELLO
 
-## About Me
+3 words that describe me:
 
-- Musician
-- Meditator
-- Nerrrrrrrrd
+- Marketing
+- Synergy
+- Rodeos
 
-I live in Bellingham, WA. I have a Master's and Bachelor's degree in Music Composition. Making music for a living is virtually impossible, so I've switched to software development; it's been a hobby for a few years, and I'm excited to make it my career.
-
-I've been meditating off & on for about 6 years, really on for about 2 years (currently try to get in about an hour every day). I also still play music in various forms. I really like pizza.
-
-That's probably enough for now?
+I love making people buy things. Boy howdy that is my life. I can make you buy anything. I can sell you a pile of dog poop and make you like it. Marketing is life. I also like to go to rodeos, specifically miniature horse rodeos. I've lost lots of money at those...
