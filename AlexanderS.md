@@ -1,3 +1,3 @@
 Hey, I'm Alex.
-stupid, motivated, bored
-Black. Black is a great color, is it a color? Is it no color, or all colors? Well, it's very black.
+exited, creative, charming
+I like horses, they are so fun, I know everything about them, like... umm, the horse (Equus ferus caballus) is one of two extant subspecies of Equus ferus.
