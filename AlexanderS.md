@@ -1,3 +1,3 @@
 Hey, I'm Alex.
-stupid, motivated, bored
-Black. Black is a great color, is it a color? Is it no color, or all colors? Well, it's very black.
+perceptive, motivated, underchallenged
+Black is the darkest color, the result of the absence or complete absorption of visible light. It is an achromatic color, a color without hue, like white and gray.
