@@ -1,3 +1,5 @@
 Intro
 -----
-My name is Diego, and I'm a code-music-sports lover. I have been programming for around 7 years as a hobby, with a bit of freelancing sprinkled in. My favorite thing to do when I'm not programming is to watch/play basketball and soccer. I hope to eventually my programming experience into a full-fledged software engineering career.
+My name is Diego, and I'm a code-hating indivdual. I absolutely detest writing, and looking at code. In my spare time I don't enjoy anything, so I spend the majority of it thinking about how much I hate code. I aspire to never have to see code in my life again.
+
+I also despise all sports, and music.
