@@ -1,0 +1,6 @@
+Hello, my name is Mark. Creative, Inquisitive, and kind are three words that describe me. 
+
+I've gotten into exercise later in life. I started out with swimming and then started biking again (I biked a lot as a kid). Recently I've been doing Orange Theory Fitness and have enjoyed the feeling of personal accomplishment from exercising regularly.
+
+Extra Credit Challenge
+- First commit for the extra credit.
