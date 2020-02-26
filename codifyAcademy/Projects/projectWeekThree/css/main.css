@@ -1,0 +1,49 @@
+.nav {
+	width: 100%;
+	float: left;
+	background-color: orange;
+}
+/*This styling takes away the bullet points*/
+ul {
+	list-style: none;
+	text-align: center;
+}
+/*This property of the element display is inline so the words are horizontal*/
+li {
+	display: inline;
+	padding: 70px;
+	font-size: x-large;
+	font-weight: bold;
+}
+form {
+	padding: 2px;
+	font-size: 25px;
+	border: 2px solid grey;
+	float: right;
+	width: 20%;
+	background-color: white;
+}
+form button {
+	float: right;
+	width: 30%;
+	padding: 10px;
+	background: white;
+	color: grey;
+	border: 2px solid grey;
+	cursor: pointer;
+	margin: none;
+}
+* {
+	box-sizing: border-box;
+}
+input {
+	height: 37px;
+	float: right;
+	border: 2px solid grey;
+}
+.search-container {
+	background-color: red;
+	width: 100%;
+	height: 100%;
+	display: block;
+}

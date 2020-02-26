@@ -1,0 +1,9 @@
+h1 {
+	/* semi colon at the end of tomato */
+	background-color: tomato;
+	color: #FFF;
+}
+h1:first-letter {
+	/* dash inbetween font and size */
+	font-size: 52px;
+}
