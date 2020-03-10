@@ -1,11 +1,11 @@
 I'm Shawn James. 
 
-List three words that describe you:
+List three words that don't describe you:
 
--athletic
--passionate
--kind
+-smelly
+-10 feet tall
+-lazy
 
 
-> My favorite hobbies are writing code and writing music. 
-> My favorite animal is the white tiger.
+> My favorite hobbies are not eating mushrooms or ballet. 
+> My favorite animal is not the worm.
