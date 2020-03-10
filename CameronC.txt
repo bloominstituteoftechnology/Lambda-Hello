@@ -1,0 +1,6 @@
+Hi, My name is Cameron Collins. 
+Here are 3 word that describe me, Motivated, Creative, Quiet.
+
+My favorite hobby is game development. I've been programming for about 4 years now mainly using game engines and a little bit of python and C++. I started out in Gamemaker Studio and started creating my first few games with that. I struggled moving from idea to idea. But here recently I've been able to keep working on a single project. Seems like it will take around a year to get it done though. I've also worked a little in Godot 3d, 2d and Unreal Engine. 
+
+Favorite Animal: Dog
