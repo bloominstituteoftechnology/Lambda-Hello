@@ -1,0 +1,3 @@
+# Hi my name is iAN fRENCH
+## Three words that describe me would be: avaricious, capricious, and malicious
+### I have several hobbies that I enjoy on a regular basis. I am a fantastic drummer, much to the chagrin of my family. I am an avid gambler, which I found to be surprisingly common among evil megalomaniacs. I also enjoy playing with people's minds, as I have completed the royal PITA training program in Bhutan. I really enjoy designing doomsday devices, as in all out global domination in type of device, not your run of the mill ooooh, pay me money type deal.  I am also a half-decent astronaut and often take my daughter out in our FTL vehicle to try and exploit the night-sky objects.  
