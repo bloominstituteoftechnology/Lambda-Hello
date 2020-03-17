@@ -2,7 +2,7 @@
 
 **List three words that describe you.**
 
-Hello, my name is Paul and three words that describe me are brash, loud, and short.
+Hello, my name is Israel and three words that describe me are gentle, quiet, and considerate.
 
 **Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.**
 
