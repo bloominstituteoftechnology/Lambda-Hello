@@ -1,4 +1,4 @@
-# Linh Bouniol
+# Israel Aikulola
 
 Three words that best describe me:
  - Creative
