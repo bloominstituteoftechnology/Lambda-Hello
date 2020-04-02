@@ -1,0 +1,11 @@
+Hello World, my name is Danielle. I have 2 
+girls, ages 9 and 4. I am a self-taught 
+graphic designer and have my degree in Web
+Development. I joined Lambda looking to 
+further my knowledge as a dev, and work 
+towards being a full stack or software dev
+in the future. Three words I would use to 
+describe myself are flexible, goal-driven, 
+and compatable. Have a great day!
+
+testing for mac setup
