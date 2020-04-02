@@ -1,0 +1,11 @@
+My name is Tyler Clawson.
+<<<<<<< HEAD
+Three words to describe me: Lazy, Unfunny, Passive.
+Hobby: My biggest hobby is music mudic criticims. I hate all types of music and feel the need to let everyone know about it.
+=======
+Three words to describe me: Tenacious, Witty, Intense
+Hobby: My biggest hobby is music. I play piano, guitar, and bass. My favorite genre of music is Jazz, but you can find good music in any genre. I have been playing for about a decade, and I'm always hungry to hear new and innovative music... and I enjoy long walks on the beach.
+TEST
+TEST
+TEST
+>>>>>>> 16328cedf427847e87faff1162732210e08844dd
