@@ -1,0 +1,11 @@
+Hello! My name is James McDougall!
+
+Three words that describe myself are determined, easy-going and helpful.
+
+A few things you should know about me, is that I have a passion for music. I used to be an audio engineer and still have the engineering itch, but I love to make music while playing my guitar or other instruments. 
+
+Another hobby of mine is that I love to go to the gym. Health is an important factor in my life and I want to make sure that I live my life to the best of my ability, while taking care of it, since we only get one. 
+
+Lastly, I love coding, especially in Swift/Xcode! I found a passion for coding using Xcode/Swift about 6 months ago, which led me to choose Lambda!
+
+I am so excited to be here and I look forward to learning how to become an iOS developer!
