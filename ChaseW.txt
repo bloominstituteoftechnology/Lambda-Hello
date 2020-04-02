@@ -1,0 +1,9 @@
+//Hi,
+name = Chase;
+
+var descMe[3] = {quiet, patient, determined };
+
+var love = playing soccer, enjoy = family, being = wonderful;
+
+//change=true; didnt want to commit this oops making a redacted commit and repushing
+
