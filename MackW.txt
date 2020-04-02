@@ -1,0 +1,9 @@
+I am restarting today's homework to better understand the commands in git AND NOT MERGE.
+My name is Meckenzie Waber. Three words that describe me are: "Impolite", "Frustrated", "Lazy".
+My favorite hobby is playing skee ball!
+<<<<<<< HEAD
+This is an amendment.
+Oops, I forgot something!
+=======
+This is an amendment.
+>>>>>>> 4d0e163d38ddf1c14b5f427f96eca10a4f40ad49
