@@ -1,9 +1,11 @@
 //Hey Lambda! My name is Miguel Marquez and this is my introduction
 
 
+
 1. What are three words that describe you?
 
 	> Great question, the three words that describe me are outgoing, friendly, ambitious
+
 
 
 2. What are your favorite television shows?
@@ -19,5 +21,19 @@
 		> > Law and Order: Special Victims Unit
 
 		> > Avatar: The last Airbender
+
+
+
+3. Do you have any hobbies, what do you do on your free time?
+
+	> I have a few hobbies, Yes, here's a few of them:
+
+		> > I joined a gym recently, I'm weight lifting now
+
+		> > I like to read the Harry Potter series
+
+		> > I travel whenever I can afford to
+
+		> > I draw sometimes, not verywell, but I try
 
 
