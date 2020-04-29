@@ -1,39 +1,39 @@
-//Hey Lambda! My name is Miguel Marquez and this is my introduction
+//Hey Lambda! My name is Miguel Marquez and this is my "alternate reality"
 
 
 
-1. What are three words that describe you?
+1. What are three words that DON'T describe you?
 
-	> Great question, the three words that describe me are outgoing, friendly, ambitious
+	> Great question, the three words that don't describe me are cruel, apathetic, and sadistic
 
 
 
-2. What are your favorite television shows?
+2. What are your LEAST favorite television shows?
  
-	> I have several favorite TV shows,  here is a list of my top five:
+	> I have several TV shows,  here is a list of my top five:
 
-		> > Criminal Minds 
+		> > Reality TV
+		
+		> > Ghost Busters
 
-		> > Chicago P.D.
+		> > Drag Race
 
-		> > Blue Bloods
+		> > Wipeout
 
-		> > Law and Order: Special Victims Unit
-
-		> > Avatar: The last Airbender
+		> > The Big Bang Theory
 
 
 
-3. Do you have any hobbies, what do you do on your free time?
+3. Do you have any hobbies, what do you NOT do on your free time?
 
-	> I have a few hobbies, Yes, here's a few of them:
+	> I have a few hobbies, these aren't them:
 
-		> > I joined a gym recently, I'm weight lifting now
+		> > Hiking
 
-		> > I like to read the Harry Potter series
+		> > Playing an instrument
 
-		> > I travel whenever I can afford to
+		> > Boxinn
 
-		> > I draw sometimes, not very well, but I try
+		> > Painting
 
 
