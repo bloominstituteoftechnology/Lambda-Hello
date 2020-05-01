@@ -1,0 +1,1 @@
+Hello everyone! My name is True and I'm a 23 year old from Hawaii. Some of my hobbies are riding my bike and reading. If I had to pick three words that decribe me, I'd pick: kind, intellectual and shy.
