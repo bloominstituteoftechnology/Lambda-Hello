@@ -1,0 +1,14 @@
+My name is Bryan Cress. Three words people often use to describe me are:: friendly, genuine, and driven. One of my favorite hobbies is basketball. I use to play all the time growing up and I love a bit of friendly competition. I don't play much anymore but its always my go to if I need to take a break from some focused work. Nowadays I tend to pick up a guitar for a couple minutes here and there more than the basketball. 
+
+
+Git status - red
+
+Git add - README.md
+
+Git status - green
+
+Git commit -m "some message here" 
+
+Git log 
+
+Git pushBryan
