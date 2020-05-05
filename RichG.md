@@ -1,2 +1,1 @@
-Hello, my name is Rich. Three words that describe me are; Determined, Lazy, and Supportive.
-My motivation to complete this course is my 4 month old daughter Scarlett. I am learning this to be able to give her the life she deserves. 
+Hello, my name is Rich. Three words that describe me are; Negligent, Incompetent, Immoral. I love to run cross country. I have completed in the Olympics and have 30 Gold medals please work now 
