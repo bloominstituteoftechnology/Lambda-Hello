@@ -7,10 +7,11 @@
 
 \f0\fs24 \cf0 Hi! My name is Angela.\
 \
-Dark hair\
-Blue eyes\
-Female\
+Blonde hair\
+Brown eyes\
+Male\
 \
-I am a travel guru. I have been all over the world and until now worked in the industry for over 15 years. But here I am now, aspiring to be a developer.\
+I am a mechanic. I have been a mechanic all my life. I'm a third generation mechanic.\
 \
 }
+
