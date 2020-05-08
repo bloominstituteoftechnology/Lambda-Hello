@@ -43,7 +43,7 @@ Use this repository to practice branching. You'll need to create a new branch, c
 
 Follow these steps to create a personal branch and submit an "alternate reality" pull request.
 
-1. In your cloned/forked repository, create a new branch named `alternate_reality`.
+1. In your cloned/forked repository, create a new branch named .
 2. Edit the text file you created to describes yourself by listing three words that describe a someone completely unlike you. Edit your sentences to describe a hobby you don't participate in or another topic that reflects an alternate-reality version of who you are, suitable for sharing on a public site.
 3. Use `git checkout` to switch between your `alternate_reality ` and `master` branches and confirm that your changes only appear in your branch.
 4. Commit, and push your `alternate_reality` branch to your forked repository.
