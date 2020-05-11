@@ -1,9 +1,9 @@
 Hi my name is Ashley M.
 
 3 words that describe me
-  stubborn
-  caring
-  mysterious
+  loud,
+  annoying and
+  Mischievous 
   
-  One of my favorite hobbies is to crochet. I taught myself how to crochet. For me crocheting is very relaxing and in the end I can
-  use what I made.
+  One of my favorite hobbies is to run. Irun about 5 miles a day. For me running is very relaxing and in the end I am
+  healthier for it.
