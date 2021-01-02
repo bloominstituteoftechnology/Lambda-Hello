@@ -1,0 +1,13 @@
+Hello my name is Jonathan Ferrer
+
+Funny
+Dope
+Crazy
+
+<<<<<<< HEAD
+I love this new coding class.  Technology has always been an interest of mine.  Turtles are my favorite.
+
+I am editing this to amend
+=======
+I love this new coding class.  Technology has always been an interest of mine.  Turtles are my favorite.
+>>>>>>> ae98d8c01ea8dbcc3b565bb6d546670b67b9a7de
