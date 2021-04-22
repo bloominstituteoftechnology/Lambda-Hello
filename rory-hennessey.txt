@@ -1,0 +1,9 @@
+I am Rory.
+
+ Three words are here.
+ Favorite Hobby goes here.
+ Favorite Animal goes here.
+
+ MVP is complete. Committing & pushing for confirmation.
+
+ Round two.
