@@ -1,0 +1,6 @@
+Hello, my name is Michael Ney. 
+Three words that can describe me are Persistent, Calm, and Observant.
+
+My favorite hobby would be developing interactive websites that people can use to help solve an issue they have, or even just to use for fun.
+One of the more recent projects I contrubted to for fun was a Multiplayer Hangman Game, which isn't very useful but it's fun!
+I also have a Calico Cat named Molly.
