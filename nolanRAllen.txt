@@ -1,0 +1,15 @@
+Hey, everrribahdy!
+
+I'm Nolan Radley Allen, and I've excited to tell you the three words that describe me the best:
+
+• Awake
+• Sleepy
+• Comfortable
+
+<<<<<<< HEAD
+I'm a US civilian citizen who knows nothing about the military and loves to talk about how cool it is and much people aren't traumatized working for the government. I'm 30, unmarried, and don't do anything creative whatsoever. I'm also unbelievably wealthy. I hate typing anything, so I just let the help do all of my writing on all formats. I don't understand the value of a dollar, so I'm a big spender.
+
+I forgot to mention I'm not very smart.
+=======
+I'm a US civilian citizen who knows nothing about the military and loves to talk about how cool it is and much people aren't traumatized working for the government. I'm 30, unmarried, and don't do anything creative whatsoever. I'm also unbelievably wealthy. I hate typing anything, so I just let the help do all of my writing on all formats. I don't understand the value of a dollar, so I'm a big spender.
+>>>>>>> c09098fa3bff6ccecf35c23e38ce305dbad2ece9
