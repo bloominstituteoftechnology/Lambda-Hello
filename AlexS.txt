@@ -1,0 +1,7 @@
+Hi, CS13! I'm Alexandra Swartz.
+Here are a few facts about me:
+    1. Favorite hobbies: yoga, interval training, Russian political history
+    2. Favorite animal: shark (and/or my dog, Toby)
+    3. Favorite sports teams: Phillies, Sixers, Steelers, Penguins
+
+    Making changes on the master branch!
