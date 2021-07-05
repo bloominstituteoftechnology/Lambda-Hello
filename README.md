@@ -1,5 +1,4 @@
-# Lambda-Hello
-Introductions to the Lambda Community
+## Introductions to the Lambda Community
 
 ### Pull Request Challenge
 
