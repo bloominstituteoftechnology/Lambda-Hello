@@ -1,0 +1,9 @@
+Hello, my name is Nedim Omerovic.
+
+Three words that could be used to describe me in an ideal world.
+- curious
+- playful
+- helpful
+
+I've lived in several countries throughout my lifetime and currently reside in Florida. I enjoy spending time with friends, watching sports; go Gators. I've spent time trying to code various
+projects throughout the years; C# has been my programming language of choice. If you are curious to see some of the things that I've coded before, you can check out my GitHub.
