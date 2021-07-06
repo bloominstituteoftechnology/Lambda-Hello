@@ -1,0 +1,5 @@
+My name is Allen
+I like coffee (black coffee) and I like vim. 
+
+My alter ego likes coffee with milk and sugar, and 
+codes in emacs
