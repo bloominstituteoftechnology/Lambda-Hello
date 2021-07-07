@@ -1,0 +1,3 @@
+Hello, my name is Abdiel Fernandez, I am inquisitive, happy and, adaptive.
+
+My favorite hobby is reading. All throughout my youth, I hated the idea of reading. It wasn't until Senior year when my English teacher gave us a book to read as a class. 'Percy Jackson and the Olympians: The Lightning Thief - Rick Riordan', that was the name of the book that made me love reading. That book showed me how words on a page can take me to another world, it showed me that the impossible can become possible. Since then I have read every book in the Percy Jackson series and dozens of other books. I am currently reading the Harry Potter series.
