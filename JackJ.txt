@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Hello my name is Jack and three words that describe myself are spiritual, respectful, 
+and kind.  Some of my favorite things to do is find a spot in nature and just breathe.  
+I like to listen to nature, listen to the water, hear and feel the wind blowing. 
+I love all of God's creations but my favorite animal is a cow. Then take a walk on the beach.
+=======
+Hello my name is John and three words that describe myself are demonic, devilish, 
+and grouchy.  Some of my favorite things to do is find a spot in nature and just destroy it.  
+I hate to listen to nature, listening to the water, hearing and feeling the wind blow. 
+I hate all of God's creations but the animal I hate the most is a cow. Then don't take a walk on the beach.
+>>>>>>> alternate_reality
