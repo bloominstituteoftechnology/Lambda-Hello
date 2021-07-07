@@ -1,0 +1,15 @@
+Hello. My name is Mariana Huh.
+
+Three words that describes me:
+1. Honest/Liar
+2. Loyal/Traitorous
+3. Modest/Arrogant
+
+I enjoy cooking recipes that interests me. The downside to that is I never get good at any particular dish because I always 
+find some new or different dish to make and so I don't get a chance to perfect any one. 
+
+/I don't actually eat.
+
+// adding a comment here.
+
+testing
