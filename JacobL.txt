@@ -1,0 +1,5 @@
+Hello, my name is Jacob. 
+Three words that describe me are shy, rude and short-tempered.
+Some of my favorite things are spiders, crying, and ballet.
+
+Making changes to practice amending an existing commit.
