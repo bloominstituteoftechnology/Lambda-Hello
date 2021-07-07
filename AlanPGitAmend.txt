@@ -1,0 +1,2 @@
+testing the git commit --amend feature
+test test 
