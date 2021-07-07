@@ -1,0 +1,7 @@
+Hello, I'm Daniel Alternate Weinman.
+
+Three words that describe me are serious, outgoing, and arrogant.
+
+My favorite hobby is going to the DMV.  I truly enjoy sitting in a crowded room for hours with other miserable people, while waiting to update my lost Driver's License.  In fact, sometimes I throw my license away just to go back to the DMV.
+
+Testing out git --amend.
