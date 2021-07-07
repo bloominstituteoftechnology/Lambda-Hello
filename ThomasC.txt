@@ -1,0 +1,11 @@
+Hello my name is Thomas Claydon.
+
+Three Words That Describe Me:
+
+1.) Lazy
+2.) Annoying
+3.) Boring
+
+My favorite hobby is karaoke.
+
+Made additional change to branch file for commit.
