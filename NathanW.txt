@@ -1,0 +1,10 @@
+Hello, my name is Nathan Waddell
+
+1. introvert
+2. kind
+3. hardworking
+
+My favorite hobby is playing pool. I have been playing pool since I was 14 years old, and have won many tournaments.
+
+
+This is my amended commit!!!
