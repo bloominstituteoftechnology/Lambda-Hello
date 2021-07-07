@@ -1,0 +1,11 @@
+Hello Lambda Github, 
+
+My name is Max McFerren. My favorite hobby is producing electronic music. I've done this for almost 20 years. The best part about this is when I get to release music on a label. I really love it when they put the music out on vinyl. How crazy is that? Anicent technology, indeed. 
+
+An alternate reality version of me is a rock climber who doesn't use ropes. I think they call it free soloing. This person would live in a van and eat a lot of ramen.
+
+<<<<<<< HEAD
+Max
+=======
+Maxs
+>>>>>>> a0efe0dbeffa3e06afcb756bb08a64125044602c
