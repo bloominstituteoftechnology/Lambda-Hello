@@ -1,0 +1,1 @@
+Hi, I'm Josh Gorton.  I studied Pottery at Rollins College.  I finished by studing clay, but eventually found that, although boring, really provide much enjoyment.  So I added Early Music which focused on String Theory and Improvisation and Silent meditation.  This is what brought me to clown university!
