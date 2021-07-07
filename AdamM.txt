@@ -1,0 +1,10 @@
+Hello there! My name is Adam McKenney.
+I am:
+-creative
+-detail-oriented
+-quick-thinking
+<<<<<<< HEAD
+This text has now been amended for the extra challenge!
+=======
+My favorite hobby is playing video games. I like action RPGs just fine, but always have a soft-spot for turn-based RPGs. Best game of all time is still Ocarina of Time imo, but if you say Majora's Mask I'll allow it.
+>>>>>>> c7cb94a26ae97a028f25a8ae7b3ef51bcfee3239
