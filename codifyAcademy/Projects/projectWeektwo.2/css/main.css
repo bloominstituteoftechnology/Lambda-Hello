@@ -1,0 +1,24 @@
+nav {
+	text-align: center;
+	background-color: grey;
+	height: 40px;
+}
+nav a {
+	margin: 10px;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	font-size: x-large;
+}
+img {
+	width: 100%;
+}
+.container {
+	text-align: center;
+	color: black;
+	position: relative;
+}
+.centered {
+    position: absolute;
+    left: 50%;
+}
