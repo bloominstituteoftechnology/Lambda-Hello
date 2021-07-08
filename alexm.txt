@@ -1,0 +1,3 @@
+Hello, my name is Alex, and I am currently enrolled at Lambda School. This is my paragraph. 
+
+I enjoy reading, coding, and building projects. If you are in San Francisco, CA and enjoy the same activities, reach out to alex@valetfix.com.
