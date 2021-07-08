@@ -1,0 +1,15 @@
+ Hi! My name is Luisan and I'm from Guatemala. 
+
+ I can be described as:
+ persistent
+ deep-thinker
+ ambivert
+
+ I have a very specific interest on mental frameworks. Paritcularly after
+ learning a little about programming, I started thinking differently about the
+ way we make decisions. I'm curious (and consistently learning about) what the
+ though process is - you could say algorithm - that takes as inputs a) a
+ question or goal, b) options, parameters, and variables, and c) limitations
+ and then spits out - or 'returns' - a decision. I like asking and deciphering
+ other's decision-making algorithm/framework and using that info to update
+ or improve mine.
