@@ -1,0 +1,23 @@
+PaulApivat.txt
+
+Nickname: Paul
+First/Last: Apivat Hanvongse
+
+1. Learner / Aspirer
+2. Freelancer
+3. Husband / Son / Only child 
+
+My favorites include: Browsing bookstores, learning and self-improvement.
+I recently rekindled a childhood hobby: collecting basketball cards (Ebay bargain hunting). 
+Favorite band: The Smashing Pumpkins. 
+I'm interested in blockchain and I want to create  decentralized applications. 
+My past training is in psychology and I'm somewhat of a data nerd. 
+
+
+// Extra Credit Challenge
+My top-5 bball players: 
+
+Starters:   MJ, Lebron, Shaq,   Magic, Durant
+ Support: Kobe, Duncan, Hakeem, J.Kidd, S.Curry
+ Support: Wade, Barkley, Kareem, AI,   Reggie Miller
+ Support: Bird,  McHale, KG     Isiah, Ray Allen
